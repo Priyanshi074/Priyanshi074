@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshi</h1>
-<h3 align="center">A passionate Full-Stack Developer and Engineering Student</h3>
+<h3 align="center">Coding dreams into reality</h3>
 
 - 🌱 Learning: **DSA**, **AI/ML**, and **IoT**
 - 💬 Ask me about: **Web Development, DSA, React, Django, AI, IoT Integration**
@@ -32,15 +32,7 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshi074&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshi074&theme=radical" width="45%" />
-</p>
-
----
-
-### 🌐 Let's Connect!
+### 🌐 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/priyanshi-jain-3341b6252/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
@@ -49,3 +41,24 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshi074&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshi074&theme=radical" width="45%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshi074&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshi074&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshi074&layout=compact&theme=radical" width="50%" />
+</p>
+
+
