@@ -24,6 +24,11 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
+**Databases:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
 ---
 
 ### 📘 DSA Practice  
@@ -45,12 +50,6 @@
 ---
 
 ### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshi074&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshi074&theme=radical" width="45%" />
-</p>
-
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Priyanshi074&show_icons=true&theme=radical" width="48%" />
