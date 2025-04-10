@@ -39,7 +39,7 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/priyanshi-jain-3341b6252/" target="_blank">
+  <a href="https://www.linkedin.com/in/priyanshi-jain-250525257/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:jainpriyanshi074@gmail.com">
