@@ -2,7 +2,7 @@
 <h3 align="center">Coding dreams into reality</h3>
 
 - 🌱 Learning: **DSA**, **AI/ML**, and **IoT**
-- 💬 Ask me about: **Web Development, DSA, React, Django, AI, IoT Integration**
+- 💬 Ask me about: **Web Development, DSA, React, Django, AI, ML, IoT Integration**
 - 📫 Reach me at: [jainpriyanshi074@gmail.com](mailto:jainpriyanshi074@gmail.com)
 
 ---
